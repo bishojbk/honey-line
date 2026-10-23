@@ -1,0 +1,11 @@
+{
+    "advertisement": {
+        "minimumDelayBetweenInterstitial": 60
+    },
+    "leaderboards": [
+        {
+            "id": "stars",
+            "isMain": true
+        }
+    ]
+}
